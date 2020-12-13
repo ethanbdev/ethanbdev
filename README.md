@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">Software Development Engineer @Esri</h3>
 
-- 📫 How to reach me **eborgen@esri.com**
+- Working on ArcGIS Online and growing my front end development skills. Learning Stencil and web components currently.
+- University of Minnesota alum, Ski-U-Mah! :part_alternation_mark:
+- Interested in the intersection of geospatial data and web development, making data easy to digest and analyze. :globe_with_meridians:
+- Wear a mask 😷, :recycle:, and be kind to others today :+1:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
