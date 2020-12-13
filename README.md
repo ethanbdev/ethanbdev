@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">Software Development Engineer @Esri</h3>
 
-<p align="left"> <a href="https://twitter.com/ethanborgen" target="blank"><img src="https://img.shields.io/twitter/follow/ethanborgen?logo=twitter&style=for-the-badge" alt="ethanborgen" /></a> </p>
-
 - 📫 How to reach me **eborgen@esri.com**
 
 <h3 align="left">Connect with me:</h3>
