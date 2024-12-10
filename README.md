@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">Software Development Engineer @Esri</h3>
 
-- Working on ArcGIS Online and growing my front end development skills. Learning Stencil and web components currently.
-- University of Minnesota alum, Ski-U-Mah! :part_alternation_mark:
+- University of Minnesota alum :part_alternation_mark:
 - Interested in the intersection of geospatial data and web development, making data easy to digest and analyze. :globe_with_meridians:
-- Wear a mask 😷, :recycle:, and be kind to others today :+1:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/eborgen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="eborgen" height="30" width="40" /></a>
-<a href="https://twitter.com/ethanborgen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ethanborgen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ethanborgen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ethanborgen" height="30" width="40" /></a>
 </p>
 
